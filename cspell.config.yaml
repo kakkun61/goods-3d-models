@@ -7,5 +7,6 @@ words:
   - BOSL
   - shiftout
   - xrot
+  - xflip
 ignoreWords: []
 import: []
