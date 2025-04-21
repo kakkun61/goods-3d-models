@@ -1,12 +1,12 @@
 BeginElementMap v1
-14 PostfixCount 3
+7 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 14 2
+ElementMap 1 7 2
 
 Edge
 

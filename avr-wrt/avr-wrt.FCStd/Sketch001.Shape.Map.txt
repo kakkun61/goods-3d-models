@@ -4,90 +4,30 @@ Edge
 Vertex
 ;SKT
 
-MapCount 2
+MapCount 1
 
-ElementMap 1 7 2
+ElementMap 1 6 2
 
 Edge
 
 ChildCount 0
 
-NameCount 13
-0
-;g1.3 0
-;g10.3 0
-;g11.3 0
-;g12.3 0
-;g13.3 0
-;g2.3 0
-;g6.3 0
-;g7.3 0
-;g8.3 0
-;g9.3 0
-;g3.3 0
-;g4.3 0
-
-Vertex
-
-ChildCount 0
-
-NameCount 11
-0
-;g1v1.3 ;g4v2.3 0
-;g1v2.3 ;g2v1.3 ;g10v1.3 ;g13v2.3 0
-;g10v2.3 ;g11v1.3 0
-;g11v2.3 ;g12v1.3 0
-;g12v2.3 ;g13v1.3 0
-;g2v2.3 ;g3v1.3 ;g6v1.3 ;g9v2.3 0
-;g6v2.3 ;g7v1.3 0
-;g7v2.3 ;g8v1.3 0
-;g8v2.3 ;g9v1.3 0
-;g3v2.3 ;g4v1.3 0
-
-EndMap
-
-ElementMap 2 6 2
-
-Edge
-
-ChildCount 1
-1 0 12 0 1 ;:H,E 0
-
-NameCount 15
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+NameCount 5
 0
 ;g14.3 0
 ;g15.3 0
+;g16.3 0
+;g17.3 0
 
 Vertex
 
-ChildCount 1
-1 0 10 0 1 ;:H,V 0
+ChildCount 0
 
-NameCount 13
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+NameCount 5
 0
 ;g14v1.3 0
 ;g15v1.3 0
+;g16v1.3 0
+;g17v1.3 0
 
 EndMap

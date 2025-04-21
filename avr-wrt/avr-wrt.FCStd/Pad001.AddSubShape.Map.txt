@@ -1,5 +1,5 @@
 BeginElementMap v1
-15 PostfixCount 12
+8 PostfixCount 12
 Edge
 Face
 Vertex
@@ -15,7 +15,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 15 3
+ElementMap 1 8 3
 
 Edge
 
