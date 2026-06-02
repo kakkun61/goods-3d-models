@@ -1,6 +1,11 @@
 # Free CAD
 *.FCBak
 
+# Kicad
+.history
+*-backups
+~*.lck
+
 *.stl
 *.3mf
 *.photons
