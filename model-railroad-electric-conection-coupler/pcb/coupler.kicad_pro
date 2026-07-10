@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "male.kicad_pro",
+    "filename": "coupler.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -659,8 +659,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "male.kicad_sch",
-        "name": "male",
+        "filename": "coupler.kicad_sch",
+        "name": "coupler",
         "uuid": "b84fb071-a9c2-4868-aeae-2d084847f82a"
       }
     ],
